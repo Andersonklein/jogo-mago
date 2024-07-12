@@ -10,7 +10,7 @@ Quantidade de poderes, 4: Invisibilidade, Voar, Regeneração, Armadura de aço.
 
 
 
-Iniciando O Jogo: 
+##Iniciando O Jogo: 
 
 Ao iniciar o jogo, você verá as seguintes opções:
 >Digitar o nome do Mago:  
