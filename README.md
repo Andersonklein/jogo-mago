@@ -18,7 +18,7 @@ Ao iniciar o jogo, você verá as seguintes opções:
 
 Após preencher as informações, o jogo te mostrará um status inicial:
 
-Status inicial:  
+## Status inicial:  
 Nome: wizard  
 Vida: 100
 
@@ -27,12 +27,12 @@ Dando sequência, a próxima etapa do jogo te mostrará um inventário, lá esta
  Você vai escolha um item para usar:  
  Inventário do wizard:
  
-Ai você vai escolher qual das opções seria melhor 
+## Ai você vai escolher qual das opções seria melhor 
 
 0.Poção de Cura  
 1.Poção de Mana
 
-Dependendo do número que você escolher, irá aparecer o seguinte status.
+## Dependendo do número que você escolher, irá aparecer o seguinte status.
 1  
 wizard usou Poção de Mana.  
 Vida atual: 110
@@ -48,7 +48,7 @@ dependendo do que esolher, vai atribuir a vida
 ( A **Cura** aumenta 20 de vida. )
 
 
-Após isso, o código vai entrar na seleção para escolher poderes e mostrará os poderes disponíveis para uso, EX:
+## Após isso, o código vai entrar na seleção para escolher poderes e mostrará os poderes disponíveis para uso, EX:
 
 Escolha um poder para usar:  
 Poderes de wizard:
@@ -58,12 +58,12 @@ Poderes de wizard:
 2. Escudo Mágico
 3. Teleporte
 
-Dependendo do poder que você escolher, vai mostrar na tela, que o poder escolhido foi utilizado. EX:  
+## Dependendo do poder que você escolher, vai mostrar na tela, que o poder escolhido foi utilizado. EX:  
 Invisibilidade foi usado!
 
 Assim, encerrando nosso código.
 
-Estrutura do Projeto 
+## Estrutura do Projeto 
 O projeto é composto pelas seguintes classes:
 
 ///Poder\\\:  esta classe possui uma variável de instância privada 'nome', um construtor que inicializa esta variável, um método 'usar', que imprime uma mensagem na tela e um método getter getNome que permite acesso externo à 'nomevariável'.  
@@ -88,7 +88,7 @@ MySQL
 Conector JDBC para MySQL
 
 
-Configuração do banco de dados
+## Configuração do banco de dados
 
 create database dbteste;
 use dbteste;
